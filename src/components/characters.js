@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 
 class Characters extends Component {
+  
   constructor(props) {
     super(props);
     this.state = {
